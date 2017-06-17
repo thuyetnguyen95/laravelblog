@@ -1,0 +1,13 @@
+.shadowbody{
+	box-shadow: -1px 2px 10px #4e4e4e;
+	padding-top: 2%;
+	margin-bottom: 2%;
+}
+
+.btn-h1-spacing {
+	margin-top: 18px;
+}
+
+.form-spacing-top {
+	margin-top: 30px;
+}
